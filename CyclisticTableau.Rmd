@@ -1,9 +1,3 @@
----
-title: "CyclisticTableau"
-author: "Oliver Franz Schmidtberg"
-date: '2024-01-08'
-output: html_document
----
 
 ## Tableau Vizualisation Code
 
