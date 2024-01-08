@@ -1,9 +1,3 @@
----
-title: "Cyclisitc_Capstone_Project"
-author: "Oliver Franz Schmidtberg"
-date: '2024-01-06'
-output: html_document
----
 
 ```{r loading packages}
 library(tidyverse)
@@ -130,5 +124,3 @@ tibble(cycle_sum3) # looking at distribution of rideable type between casual and
 # exporting the finalized data set into Tableau for visualization
 write.csv(cycledata, "cycledata 2023.csv")
 ```
-
-
